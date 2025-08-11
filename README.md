@@ -4,7 +4,7 @@
 
 ---
 
-As per my internship at @elevvopaths, I have completed the following tasks:
+As per my internship at [@elevvopaths](https://github.com/elevvopaths), I have completed the following tasks:
 <details>
   <summary><i>Sales Performance Dashboard Using Excel</i></summary>
   <br>
@@ -120,3 +120,6 @@ As per my internship at @elevvopaths, I have completed the following tasks:
 
   The in-depth analysis and data processing of the <code>.ipynb</code> file can be found <a href='TimeSeriesBreakdown'>here</a>
 </details>
+
+---
+
